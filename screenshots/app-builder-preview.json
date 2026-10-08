@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BillMint",
+      "hasCanvas": false,
+      "bodyTextLen": 2793,
+      "bodyTextHash": "2f4bb7fb6a25c2cbbdd52c71acff793cb3724bc3c018f994d333492d763cc4df",
+      "bodyTextPrefix": "B BillMint GST invoices you can sell today Download PDF EARN TOD",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BillMint",
+      "hasCanvas": false,
+      "bodyTextLen": 2713,
+      "bodyTextHash": "0f5dc185da914e3ef6a1d89c94f26db7a5cc7e7f16801cea954a7c1d074b00c9",
+      "bodyTextPrefix": "B BillMint GST invoices you can sell today PDF EARN TODAY Make a",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
